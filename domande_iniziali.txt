@@ -1,0 +1,8 @@
+Domande:
+
+cosa si intende per incontri virtuali?
+cosa si intende per riunioni virtuali?
+cosa si intende per interscambio delle persone?
+cosa si intende per incontro annuale?
+cosa si intende per preparazione di un ambiente di sviluppo con ..AMPP, Netbeans e Xdebug?
+cosa si intende per versione base in PHP?
