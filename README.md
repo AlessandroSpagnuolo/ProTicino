@@ -21,5 +21,6 @@ Lo scopo del progetto è quello di creare un sito web che riunisca in modo virtu
 - [Rapporti](Documentazione/Rapporti/)
 
 - [Rapporto 04.09.2018](Documentazione/Rapporti/Rapporto_1_Pro_Ticino_Alessandro_Spagnuolo_2018_09_04.docx)
+- [Rapporto 05.09.2018](Documentazione/Rapporti/Rapporto_2_Pro_Ticino_Alessandro_Spagnuolo_2018_09_05.docx)
 
 
